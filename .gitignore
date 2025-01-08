@@ -6,7 +6,7 @@ _site/
 .bundle/
 
 # Ruby dependencies
-vendor/
+# vendor/
 .bundle/
 
 # Cache files
