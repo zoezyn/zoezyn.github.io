@@ -1,0 +1,33 @@
+# Jekyll generated files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.bundle/
+
+# Ruby dependencies
+vendor/
+.bundle/
+
+# Cache files
+*.swp
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Build files
+node_modules/
+package-lock.json
+yarn.lock
+
+# Local development
+.docker-sync/
+docker-compose.override.yml
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
