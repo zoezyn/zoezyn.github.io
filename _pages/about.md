@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Zoe Yan. I am a data scientist and AI engineer in Porsche Digital, based in Berlin. My main focus is on building autonomous customer service using **Retrieval-Augmented Generation (RAG)**, implementing **AI agents** for advanced customer interaction and support. Previously, I worked as a language data engineer in Nyonic, building and maintaining cloud-based databases for **LLMs pre-training** datasets. Additionally, I am an indie hacker too. I build full-stack web and mobile applications with **React JS** and **React Native** while integrating AI services.
+Hi! My name is Zoe Yan. I am a data scientist and AI engineer in Porsche Digital, based in Berlin. My main focus is on building autonomous customer service using **Retrieval-Augmented Generation (RAG)**, implementing **AI agents** for advanced customer interaction and support. Previously, I worked as a LLM data engineer in Nyonic, building and maintaining cloud-based databases for **LLMs pre-training**. Additionally, I am an indie hacker too. I build full-stack web and mobile applications with **React JS** and **React Native** while integrating AI services.
 
-Besides my work, I'm also an amateur photographer. I love to capture the essence of the world through lens. I also enjoy playing piano, tennis, reading, hiking and skiing. Those are things through which I seek to understand the patterns of the world, to find my own place in it. By connecting the learning process of each activity, I discovered the commonalities among them, and learned to stay focused and persistent. These traits are in return helping me to become a better engineer.
+Besides my work, I'm also an amateur photographer. I love to capture the essence of the world through lens. I also enjoy playing piano, tennis, reading, hiking and skiing. Those are things through which I seek to understand the patterns of the world, to find my own place in it. By connecting the learning process of each activity, I discovered the commonalities among them, and learned to stay focused and persistent. These traits are in return helping me become a better engineer.
 
 Tech stack
 ======
@@ -43,7 +43,7 @@ Work experience
   - Utilizing AWS services for scalable deployment in a production environment.
 
 * **2023 - 2024**
-  - **Language Data Engineer ｜ Nyonic**
+  - **LLM Data Engineer ｜ Nyonic**
   - Design and implementation of robust data processing pipelines and workflows for training GenAI models, leveraging distributed computing frameworks such as Dask and Spark;
   - Building and maintenance of cloud-based databases for LLMs pre-training datasets;
   - Supervised fine-tuning and instruction tuning of LLMs;
