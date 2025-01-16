@@ -11,6 +11,8 @@ Hi! My name is Zoe Yan. I am a data scientist and AI engineer in Porsche Digital
 
 Besides my work, I'm also an amateur photographer. I love to capture the essence of the world through lens. I also enjoy playing piano, tennis, reading, hiking and skiing. Those are things through which I seek to understand the patterns of the world, to find my own place in it. By connecting the learning process of each activity, I discovered the commonalities among them, and learned to stay focused and persistent. These traits are in return helping me become a better engineer.
 
+I am interested in building AI products and entrepreneurship. If you have any collaboration opportunities, please feel free to reach out to me. [Email](mailto:yanzengyu98@gmail.com)
+
 Tech stack
 ======
 * **Programming Languages:** Python, JavaScript, MATLAB, SQL

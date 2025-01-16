@@ -4,7 +4,7 @@ title: "Books"
 permalink: /books/
 author_profile: true
 ---
-I am a big believer in reading and learning. I read a lot and listen to podcasts about science, history, philosophy, business, etc. From these various sources, I have selected some that I found most valuable and uplifting. These materials helped me build my fundamental knowledge and value, inspired my thinking and cultivated my curiosity. They too had a great impact on my life choices. 
+I am a big believer in reading and learning. I read a lot and listen to podcasts about science, history, philosophy, business, etc. From these various sources, I have selected some that I found most valuable and uplifting. These materials helped me build my fundamental knowledge and value, inspired my thinking and curiosity. They too had a great impact on my life choices. 
 
 ### Science, History, and Philosophy
 - **[The Vital Question](https://www.goodreads.com/book/show/26530386-the-vital-question)** by Nick Lane
