@@ -79,8 +79,8 @@ I love reading. Most of my readings are done on Kindle. But I found it hard to k
     <img src='/images/zindex-2.jpg' style="width: 100%; height: auto;">
 
 </div>
-On mobile app:
+On mobile app (name: Zindex):
 <div style="display: flex; flex-direction: row; gap: 20px;">
-    <img src='/images/zindex-3.png' style="width: 20%; height: auto;">
-    <img src='/images/zindex-4.png' style="width: 20%; height: auto;">
+    <img src='/images/zindex-3.png' style="width: 18%; height: auto;">
+    <img src='/images/zindex-4.png' style="width: 18%; height: auto;">
 </div>
