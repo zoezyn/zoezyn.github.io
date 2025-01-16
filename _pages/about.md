@@ -74,7 +74,13 @@ Portfolio
 
 I love reading. Most of my readings are done on Kindle. But I found it hard to keep track of my Kindle highlights and notes. Many e-books do not support "Export Notes" feature, and those notes are stored in a txt file which is hard to read. So I built this app to organize my Kindle notes and make them easy to access.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; padding-bottom: 20px;">
     <img src='/images/zindex-1.jpg' style="width: 100%; height: auto;">
     <img src='/images/zindex-2.jpg' style="width: 100%; height: auto;">
+
+</div>
+On mobile app:
+<div style="display: flex; flex-direction: row; gap: 20px;">
+    <img src='/images/zindex-3.png' style="width: 20%; height: auto;">
+    <img src='/images/zindex-4.png' style="width: 20%; height: auto;">
 </div>
