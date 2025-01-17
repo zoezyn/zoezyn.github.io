@@ -8,4 +8,4 @@ permalink: /posts/2025/01/future-post/
 #   - category2
 ---
 
-To come...
+I am writing a blog post about AI agents, sharing my experience in building AI agents for automating customer service for enterprise. It will be published soon.
