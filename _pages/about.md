@@ -84,3 +84,8 @@ On mobile app (name: Zindex):
     <img src='/images/zindex-3.png' style="width: 18%; height: auto;">
     <img src='/images/zindex-4.png' style="width: 18%; height: auto;">
 </div>
+
+
+**[AutoLog](https://github.com/zoezyn/Hackathon-2025/tree/main)**
+AutoLog is an autonomous system for auto-filing forms for logistics. Logistics and shipping companies manage thousands of forms daily, including custom declarations, import/export form, etc. In many cases, these forms are filled manually, which is error-prone (34% error rate in UK) and time-consuming. In the tech Berlin hackathon, me and my team built an agentic system that understands the form fields and company policies, and automatically send emails to related departments to get extra info and permission.
+<img src='/images/autolog.jpg' style="width: 50%; height: auto;">
