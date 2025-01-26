@@ -29,6 +29,7 @@ I am a big believer in reading and learning. I read a lot and listen to podcasts
 - **[Fingersmith](https://www.goodreads.com/book/show/8913370-fingersmith)** by Sarah Waters
  
 ### Psychology and Well-being
+- **[The Power of Now](https://www.goodreads.com/book/show/6708.The_Power_of_Now)** by Eckhart Tolle
 - **[Manifest](https://www.goodreads.com/book/show/58864266-manifest)** by Roxie Nafousi
 - **[Mindfulness: A practical guide to finding peace in a frantic world](https://www.goodreads.com/book/show/18962404-mindfulness)** by J. Mark G. Williams
 - **[Maybe You Should Talk to Someone](https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone)** by Lori Gottlieb

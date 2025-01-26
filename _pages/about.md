@@ -46,7 +46,7 @@ Work experience
 
 * **2023 - 2024**
   - **LLM Data Engineer ｜ Nyonic**
-  - Design and implementation of robust data processing pipelines and workflows for training GenAI models, leveraging distributed computing frameworks such as Dask and Spark;
+  - Designing data processing pipelines and workflows for training LLMs, leveraging distributed computing frameworks such as Dask and Spark;
   - Building and maintenance of cloud-based databases for LLMs pre-training datasets;
   - Supervised fine-tuning and instruction tuning of LLMs;
   - Collaboration in ML Ops initiatives to streamline model deployment and monitoring processes.
