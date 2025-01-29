@@ -21,6 +21,7 @@ I am a big believer in reading and learning. I read a lot and listen to podcasts
 - **[To Pixar and Beyond](https://www.goodreads.com/book/show/28114529-to-pixar-and-beyond)** by Lawrence Levy
 - **[No Rules Rules: Netflix and the Culture of Reinvention](https://www.goodreads.com/book/show/49099937-no-rules-rules)** by Reed Hastings and Erin Meyer
 - **[Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs)** by Walter Isaacson
+- **[The Minimalist Entrepreneur](https://www.goodreads.com/book/show/56913172-the-minimalist-entrepreneur)** by Sahil Lavingia
 
 ### Novels
 - **[One Hundred Years of Solitude](https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude)** by Gabriel García Márquez

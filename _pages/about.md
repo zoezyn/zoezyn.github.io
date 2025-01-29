@@ -42,7 +42,7 @@ Work experience
   - **Data Scientist & AI Engineer ｜ Porsche Digital**
   - Building autonomous customer service using Retrieval-Augmented Generation (RAG), implementing AI agents for advanced customer interaction and support;
   - Development of data product and data pipeline, building and maintaining APIs;
-  - Utilizing AWS services for scalable deployment in a production environment.
+  - Utilizing AWS and Azure services for scalable deployment in a production environment.
 
 * **2023 - 2024**
   - **LLM Data Engineer ｜ Nyonic**
