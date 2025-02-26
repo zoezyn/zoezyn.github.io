@@ -70,6 +70,16 @@ Work experience
 Portfolio
 ======
 
+**[Youtube](https://www.youtube.com/@zoezyn)**
+
+I made a video explaining agent and its enterprise use cases in a simple and accessible way, from simple RAG to multi-agent systems.
+
+This video is for people (new to AI) who want to have a better understanding of how AI agent is actually being implemented in real world applications. I combined my own experience and thoughts. Hopefully it can help people to have a better understanding of agentic systems.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cg2A3L58pY0?si=zTuSX2FYtPfEmuKY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="margin-bottom: 20px;"></iframe>
+
+---------------------------------------
+
 **[Zindex](https://www.z-index.org/)**
 
 I love reading. Most of my readings are done on Kindle. But I found it hard to keep track of my Kindle highlights and notes. Many e-books do not support "Export Notes" feature, and those notes are stored in a txt file which is hard to read. So I built this app to organize my Kindle notes and make them easy to access.

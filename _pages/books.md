@@ -50,6 +50,9 @@ I listen to podcasts a lot. I prefer long-form interviews and discussions over s
 - [Andrew Huberman - Robert Greene: A Process for Finding & Achieving Your Unique Purpose](https://www.youtube.com/watch?v=50BZQRT1dAg&list=PLp4Iod5s_iFJMj18KvukepIBbIQ3fRKKo&index=3&ab_channel=AndrewHuberman)
 - [Andrew Huberman - How to Focus to Change Your Brain](https://www.youtube.com/watch?v=LG53Vxum0as&list=PLp4Iod5s_iFJMj18KvukepIBbIQ3fRKKo&index=12&ab_channel=AndrewHuberman)
 
+# Documentaries
+- Wonders of the Universe
+- [The History of Earth](https://www.youtube.com/watch?v=RQm6N60bneo&list=PLp4Iod5s_iFIn3VUzfdtlUblNZE3Ko_o9&ab_channel=ScienceFortheWin)
 
 
 
