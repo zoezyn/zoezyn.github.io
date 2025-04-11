@@ -22,7 +22,7 @@ Education
 
 * **2015-2019**
   - <i class="fas fa-university"></i> **Xi'an University of Posts and Telecommunications**
-  - B.Sc. in Communication Engineering
+  - B.Sc. in Telecommunications Engineering
 
 Work experience
 ======
