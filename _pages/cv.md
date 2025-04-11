@@ -59,6 +59,6 @@ Skills
 ======
 * **Programming Languages:** Python, SQL, JavaScript, MATLAB
 * **Tools & Frameworks:** PyTorch, Scikit-learn, Pandas, Spark, Dask, Docker, Langchain, Langgraph
-* **Full Stack:** React JS, React Native, Rest API, Expo
+* **Full Stack:** eact, Next.js, JavaScript/TypeScript, React Native, FastAPI, Expo
 * **Cloud:** AWS, Azure, GCP
 * **Languages:** English, German, Chinese

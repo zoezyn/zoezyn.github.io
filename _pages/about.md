@@ -17,7 +17,7 @@ Tech stack
 ======
 * **Programming Languages:** Python, JavaScript, MATLAB, SQL
 * **Tools & Frameworks:** AI Agents, RAG, Langchain, Langgraph, PyTorch, Docker
-* **Full Stack:** React JS, React Native, Rest API, Expo
+* **Full Stack:** React, Next.js, JavaScript/TypeScript, React Native, FastAPI, Expo
 * **Cloud:** AWS, Azure
 * **Data Science:** Pandas, Spark, Dask
 
