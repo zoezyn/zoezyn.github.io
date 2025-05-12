@@ -52,7 +52,7 @@ Work experience
   - Collaboration in ML Ops initiatives to streamline model deployment and monitoring processes.
 
 * **2022 - 2023**
-  - **Data Scientist specializing in NLP ｜ Fraunhofer IMW**
+  - **NLP Engineer ｜ Fraunhofer IMW**
   - Development of NLP algorithms and recommendation systems for matching actors and content, driving the FiberConnect initiative to enhance recycling process for materials;
   - Information extraction and analysis of crawled text data from company websites in Saxony;
   - Implementation of text classification algorithms to assess company relevance and roles within the recycling ecosystem, aiding in database integration.
