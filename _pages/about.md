@@ -80,6 +80,20 @@ This video is for people (new to AI) who want to have a better understanding of 
 
 ---------------------------------------
 
+**[Super Red](https://www.superred.dev)**
+Finding real problems to solve can feel overwhelming. That’s why I built this tool—it analyzes Reddit discussions to uncover people’s biggest pain points around topics you care about.
+
+Instead of guessing at problems or building solutions nobody wants, I wanted to start with real, validated frustrations. On Reddit, people openly complain about tools, ask for alternatives, and vent about unmet needs—these are goldmines for startup ideas.
+
+This tool helps you cut through the noise and focus on problems that actually matter to real users.
+
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; padding-bottom: 20px;">
+    <img src='/images/Superred1.png' style="width: 100%; height: auto;">
+    <img src='/images/Superred2.png' style="width: 100%; height: auto;">
+
+---------------------------------------
+
 **[Zindex](https://www.z-index.org/)**
 
 I love reading. Most of my readings are done on Kindle. But I found it hard to keep track of my Kindle highlights and notes. Many e-books do not support "Export Notes" feature, and those notes are stored in a txt file which is hard to read. So I built this app to organize my Kindle notes and make them easy to access.
