@@ -81,6 +81,7 @@ This video is for people (new to AI) who want to have a better understanding of 
 ---------------------------------------
 
 **[Super Red](https://www.superred.dev)**
+
 Finding real problems to solve can feel overwhelming. That’s why I built this tool—it analyzes Reddit discussions to uncover people’s biggest pain points around topics you care about.
 
 Instead of guessing at problems or building solutions nobody wants, I wanted to start with real, validated frustrations. On Reddit, people openly complain about tools, ask for alternatives, and vent about unmet needs—these are goldmines for startup ideas.
