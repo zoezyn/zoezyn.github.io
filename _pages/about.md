@@ -90,10 +90,10 @@ This tool helps you cut through the noise and focus on problems that actually ma
 
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; padding-bottom: 20px;">
-    <img src='/images/superred-1.png' style="width: 100%; height: auto;">
-    <img src='/images/superred-2.png' style="width: 100%; height: auto;">
-    <img src='/images/superred-3.png' style="width: 100%; height: auto;">
-    <img src='/images/superred-4.png' style="width: 100%; height: auto;">
+    <img src='/images/superred-1.jpg' style="width: 100%; height: auto;">
+    <img src='/images/superred-2.jpg' style="width: 100%; height: auto;">
+    <img src='/images/superred-3.jpg' style="width: 100%; height: auto;">
+    <img src='/images/superred-4.jpg' style="width: 100%; height: auto;">
 </div>
 
 ---------------------------------------
