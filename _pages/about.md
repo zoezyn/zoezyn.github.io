@@ -40,7 +40,7 @@ Work experience
 ======
 * **2024 - present**
   - **Data Scientist & AI Engineer ｜ Porsche Digital**
-  - Building autonomous customer service using Retrieval-Augmented Generation (RAG), implementing AI agents for advanced customer interaction and support;
+  - Building autonomous customer service with RAG and AI agents for advanced customer interaction and support;
   - Development of data product and data pipeline, building and maintaining APIs;
   - Utilizing AWS and Azure services for scalable deployment in a production environment.
 
